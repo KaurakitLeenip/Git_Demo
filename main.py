@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #sadfasdfsdafsadfdsafadfx
 #asdfasdfafkjs
+=======
+#$23234234234234
+>>>>>>> adsfashguierhgkg
 def main():
     print('asdf')
     s = ''
